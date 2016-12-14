@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '/Users/d450184/git/github.com/shabutora/lenkrad/vendor/github.com/docker/docker/client/service_create.go - [lenkrad]'" />
+    <option name="defaultScopeName" value="File '/Users/d450184/git/github.com/shabutora/lenkrad/vendor/github.com/docker/docker/client/service_create.go - [lenkrad]'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/d450184/git/github.com/shabutora/lenkrad/vendor/github.com/docker/docker/client/service_create.go - [lenkrad]'" />
     <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
       <mask>*.properties</mask>
