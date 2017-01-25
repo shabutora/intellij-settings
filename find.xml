@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/d450184/git/github.com/shabutora/lenkrad/vendor/github.com/docker/docker/client/service_create.go - [lenkrad]'" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,9 +17,9 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
-      <mask>*.java</mask>
       <mask>*</mask>
       <mask>*.go</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
