@@ -35,7 +35,6 @@
         <root url="file://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/plat-darwin" />
         <root url="file://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/site-packages" />
-        <root url="jar://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1077463792" />
         <root url="file://$USER_HOME$/Dropbox/Mackup/Library/Application Support/IntelliJIdea2016.3/python/helpers/python-skeletons" />
       </CLASSES>
@@ -45,7 +44,6 @@
         <root url="file://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/plat-darwin" />
         <root url="file://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/site-packages" />
-        <root url="jar://$USER_HOME$/anaconda3/envs/3.5/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1077463792" />
         <root url="file://$USER_HOME$/Dropbox/Mackup/Library/Application Support/IntelliJIdea2016.3/python/helpers/python-skeletons" />
       </SOURCES>
